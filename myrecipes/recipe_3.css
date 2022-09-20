@@ -1,0 +1,60 @@
+.titlep{
+    color:  peachpuff;
+    font-size: 30px;
+    text-align: center;
+    background: rgb(154, 168, 54);
+    border: 3px solid peachpuff;
+    width: 650px;
+    height: 30px;
+    padding: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cookies{
+    height: 160px;
+    width: 350px;
+    position: normal;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingred{
+    color:  rgb(154, 168, 54);
+    font-size: 300%;
+    text-align: center;
+    width: 350px;
+    height: 22px;
+    padding: 0px;
+}
+
+.steps{
+    color:  rgb(154, 168, 54);
+    font-size: 300%;
+    text-align: center;
+    width: 350px;
+    height: 22px;
+    padding: 0px;
+} 
+
+.a,
+.b{
+    color:  peachpuff;
+    font-size: 18px;
+    background: rgb(154, 168, 54);
+    border: 3px solid peachpuff;
+    height: auto;
+}
+.a{
+    width: 400px;
+}
+
+.b{
+    width: auto;
+}
+
+body{
+    background-color: rgb(233, 193, 148);
+}

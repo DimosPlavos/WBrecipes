@@ -1,0 +1,61 @@
+
+.titlep{
+    color:  rgb(186, 57, 83);
+    font-size: 30px;
+    text-align: center;
+    background: rgb(218, 156, 115);
+    border: 3px solid rgb(186, 57, 83);
+    width: 650px;
+    height: 30px;
+    padding: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chicken{
+    height: 350px;
+    width: 350px;
+    position: normal;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingred{
+    color:  rgb(218, 156, 115);
+    font-size: 300%;
+    text-align: center;
+    width: 350px;
+    height: 22px;
+    padding: 0px;
+}
+
+.steps{
+    color: rgb(218, 156, 115);
+    font-size: 300%;
+    text-align: center;
+    width: 350px;
+    height: 22px;
+    padding: 0px;
+} 
+
+.a,
+.b{
+    color:  rgb(186, 57, 83);
+    font-size: 18px;
+    background: rgb(218, 156, 115);
+    border: 3px solid rgb(186, 57, 83);
+    height: auto;
+}
+.a{
+    width: 400px;
+}
+
+.b{
+    width: auto;
+}
+
+body{
+    background-color: rgb(233, 193, 148);
+}
